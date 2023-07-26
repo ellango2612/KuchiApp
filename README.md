@@ -17,11 +17,13 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
-## Image Walkthrough
+## Image + GIF Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 ![Image 7-25-23 at 5 40 PM](https://github.com/ellango2612/KuchiApp/assets/89810675/de5edd7c-c4ba-42a7-a495-037af3afcbba)
+
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dyeGs0cWY5YnZ4eHppZ3d0Z3FsNXBuYmVqNHFlMXM1eG9kYXllcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGIage6pjW54jVVTbc/giphy.gif
 
 ## App Brainstorming (Step 4)
 
