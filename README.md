@@ -1,20 +1,19 @@
 
-
 # Prework - *KuchiApp*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ella Ngo**
 
 **KuchiApp** 
 This iOS application utilized Swift and SwiftUI to let users learn new words in different languages using flashcards.
 Much thanks to "SwiftUI by Tutorials".
 
-Time spent: **20** hours spent in total
+Time spent: **50** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Image + GIF Walkthrough
@@ -28,9 +27,25 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dyeGs0cWY5YnZ4eHppZ3d0Z3FsNXB
 ## App Brainstorming (Step 4)
 
 A list of my favorite 3-5 applications and identify 2-3 features that make them your favorite app:
+
 1. Instagram
 - Contains lots of visual features (images)
 - Interactive -> enable communicating with other users
+
+2. Evernote:
+- Organization: This app allows me to keep my thoughts, ideas, and important information well-organized.
+- Cross-Platform Sync: I can access my notes on my laptop, smartphone, or tablet, making it convenient to work on the go.
+
+3. Spotify:
+- Extensive number of choices with a vast collection of songs, albums, and playlists.
+- Personalized Recommendations: It provides tailored song recommendations and Discover Weekly playlists based on my listening history, thereby introducing me to new artists and songs I might enjoy.
+
+4. Duolingo:
+- Gamified Language Learning: Duolingo turns language learning into a fun and engaging game with levels, rewards, and achievements, making the process enjoyable and motivating.
+
+5. Google Maps:
+- Accurate Navigation: Google Maps provides accurate turn-by-turn navigation, helping me find the best routes and avoid traffic, whether I'm driving, walking, or using public transportation.
+- Real-Time Updates: The app offers real-time updates on traffic conditions and estimated arrival times, ensuring I can plan my trips efficiently.
 
 An app idea that I would like to build:
 
